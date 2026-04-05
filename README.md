@@ -16,7 +16,7 @@ This project is a hands-on cloud security lab built to demonstrate practical exp
  
 Lab infrastructure to deploy [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) on AWS EKS with WAF, ALB, and HTTPS.
  
-## Diagrama de infraestructura
+## Diagram
 
 ![Diagram](./docs/juiceshop_infrastructure_diagram.svg)
 
