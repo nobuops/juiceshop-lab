@@ -1,0 +1,34 @@
+# Terraform directorios
+.terraform/
+
+# Terraform lock
+.terraform.lock.hcl
+
+# State files (van al S3, no al repo)
+*.tfstate
+*.tfstate.backup
+
+# Plan files
+*.tfplan
+tfplan
+
+# Variables con valores sensibles
+*.tfvars
+*.tfvars.json
+
+# Override files
+override.tf
+override.tf.json
+
+# Crash logs de Terraform
+crash.log
+crash.*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pluralith
+.pluralith/*.backup
+.pluralith/
+*.backup
