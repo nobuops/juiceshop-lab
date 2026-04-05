@@ -18,7 +18,7 @@ Lab infrastructure to deploy [OWASP Juice Shop](https://owasp.org/www-project-ju
  
 ## Diagrama de infraestructura
 
-![Diagram](./docs/juiceshop_infraestructure_diagram.svg)
+![Diagram](./docs/juiceshop_infrastructure_diagram.svg)
 
 ## Known limitations & future improvements
  
